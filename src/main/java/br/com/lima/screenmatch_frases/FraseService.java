@@ -1,3 +1,8 @@
+/*
+  By Sósthenes Oliveira lima
+  Palmas-To - 16-01-2025
+ */
+
 package br.com.lima.screenmatch_frases;
 
 import org.springframework.beans.factory.annotation.Autowired;
