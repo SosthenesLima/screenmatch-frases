@@ -1,3 +1,6 @@
+/*
+  By Sósthenes Oliveira Lima
+ */
 package br.com.lima.screenmatch_frases;
 
 import org.springframework.beans.factory.annotation.Autowired;
